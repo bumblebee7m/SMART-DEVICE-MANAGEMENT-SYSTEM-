@@ -1,5 +1,14 @@
 # Smart Device Management System
 
+## Course & Student Details
+- **Student Name**: Owusu Nana Kwarteng
+- **Index No** : FOE.41.006.140.25
+- **Course**: EL 162 / 234 Object Oriented Programming
+- **Lecturer**: Dr. Matthew Cobbinah
+
+---
+
+## Project Overview
 A Python-based Object-Oriented Programming (OOP) project simulating a smart home central manager. Built to demonstrate classes, private state encapsulation, property parameters, validation loops, and basic module design rules.
 
 ## Core Features
@@ -14,4 +23,4 @@ A Python-based Object-Oriented Programming (OOP) project simulating a smart home
 3. Open a terminal path pointing to the project root directory.
 4. Execute the runtime command:
    ```bash
-   python smart_device_manager.py
+   python smart_home.py
